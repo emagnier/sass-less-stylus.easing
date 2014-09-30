@@ -1,0 +1,27 @@
+{
+  "name": "sass-less-stylus.easing",
+  "version": "0.1.0",
+  "homepage": "https://github.com/emagnier/sass-less-stylus.easing",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emagnier/sass-less-stylus.easing.git"
+  },
+  "authors": [
+    "Etienne Magnier <etienne.magnier@gmail.com>"
+  ],
+  "description": "Some useful variables for easing animations using Sass, Less or Stylus.",
+  "main": [
+    "easings.less",
+    "easings.scss",
+    "easings.styl"
+  ],
+  "keywords": [
+    "easing",
+    "easings",
+    "css",
+    "less",
+    "sass",
+    "stylus"
+  ],
+  "license": "MIT"
+}
