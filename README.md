@@ -8,7 +8,11 @@ Some useful variables for easing animations using Sass, Less or Stylus.
 
 Install using Bower:
 
-> $ bower install --save sass-less-stylus.easing
+    $ bower install --save sass-less-stylus.easing
+
+Install using npm:
+
+    $ npm install --save sass-less-stylus.easing
 
 
 ## Easing Variables
